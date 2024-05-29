@@ -65,8 +65,7 @@ namespace MinhaNfe
 
             var sret = "";
             var host = $"https://api.minhanfe.com.br/nfes?page=1&perPage=10&empresa={sCNPJ}&dataIni={dataIni}T00:00:00.000Z&dataFim={dataFim}T00:00:00.000Z";
-            //var login = "angelo_sarter@hotmail.com";
-            //var senha = "minSedex10";
+            
 
             try
             {
